@@ -1,3 +1,1 @@
-# java-proje
-Hellow World
-Test
+# java-project
